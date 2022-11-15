@@ -7,7 +7,7 @@ function App() {
       <nav class="navbar background">
         <ul class="nav-list">
           <div class="logo">
-            <img src="" />
+           
           </div>
           <li>
             <a href="#courses">Co</a>
